@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152754368294",
+    "project_id": "foss-fitgenie",
+    "storage_bucket": "foss-fitgenie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152754368294:android:25ff3f99493842a1899be7",
+        "android_client_info": {
+          "package_name": "com.example.healthgenie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACUCPpfenA6sC871uAdA0gcEfoLL65zqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
